@@ -1,5 +1,5 @@
 # 🚀 About Me:
-Im a CS student currently working as a fullstack developer at Coca Cola. 
+Im a CS student currently working as a fullstack and data analyst at Coca Cola. 
 
 
 ## 🌐 Socials:
